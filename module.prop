@@ -1,0 +1,5 @@
+id=TurnOffSensors
+name=Turn Off Sensors
+author=WhoFoss
+description=Automatically turn off device sensors on boot
+updateJson=
